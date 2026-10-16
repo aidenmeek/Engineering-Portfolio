@@ -38,14 +38,16 @@ In no particular order...
 - Draw.io
 - REFPROP
 - Git
+- LabVIEW
 
 ## Programs, languages and tools I have dabbled with 
 I became proficient enough with these that I was successful in the project or class I was working on at the time.
-- Nek5000 (and installing linux on a windows machine to make it work)
+- Nek5000 (and installing/using linux on a windows machine to make it work)
 - Texstan
 - RAVEN & TEAL (INL tools)
 - GIMP
 - Blender
+- PuTTY
 
 ## Python packages I've worked with
 - Coolprop
